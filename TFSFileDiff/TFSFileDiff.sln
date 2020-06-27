@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFSFileDiff_Console", "TFSFileDiff_Console\TFSFileDiff_Console.csproj", "{C1DEC988-9983-4DDA-AE75-000C9F6AEC87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFSFileDifferences", "TFSFileDifferences\TFSFileDifferences.csproj", "{D5F87966-07F9-4115-BC0F-44FD0746E302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1DEC988-9983-4DDA-AE75-000C9F6AEC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DEC988-9983-4DDA-AE75-000C9F6AEC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DEC988-9983-4DDA-AE75-000C9F6AEC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DEC988-9983-4DDA-AE75-000C9F6AEC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F87966-07F9-4115-BC0F-44FD0746E302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F87966-07F9-4115-BC0F-44FD0746E302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F87966-07F9-4115-BC0F-44FD0746E302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F87966-07F9-4115-BC0F-44FD0746E302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8617D3DE-0700-4FDD-905D-424384244A4C}
+	EndGlobalSection
+EndGlobal
